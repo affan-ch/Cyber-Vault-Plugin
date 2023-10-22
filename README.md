@@ -24,9 +24,9 @@ Follow these steps to set up the Cyber Vault Chrome Extension with your Flutter-
 
 ### Prerequisites
 
-- [Cyber Vault Password Manager](https://github.com/muhammadaffanmaqsood/cyber-vault): Make sure you have the Cyber Vault password manager up and running. Follow the setup instructions provided in the Cyber Vault repository.
+- [Cyber Vault Password Manager](https://github.com/affan-ch/cyber-vault): Make sure you have the Cyber Vault password manager up and running. Follow the setup instructions provided in the Cyber Vault repository.
 
-- [Cyber Vault Server](https://github.com/muhammadaffanmaqsood/cyber-vault-server): You need to have the Cyber Vault Password Manager server deployed and operational. Follow the setup instructions in the Cyber Vault Password Manager repository to get the server running. Ensure you have the server's connection details for configuring the Cyber Vault Chrome Extension.
+- [Cyber Vault Server](https://github.com/affan-ch/cyber-vault-server): You need to have the Cyber Vault Password Manager server deployed and operational. Follow the setup instructions in the Cyber Vault Password Manager repository to get the server running. Ensure you have the server's connection details for configuring the Cyber Vault Chrome Extension.
 
 
 ### Chrome Extension Installation
